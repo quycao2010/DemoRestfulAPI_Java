@@ -1,0 +1,1 @@
+Create Database productmanager with products(id,name,price,description) table and config connect data in application.properties file
